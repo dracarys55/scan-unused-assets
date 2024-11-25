@@ -8,6 +8,10 @@
   "scripts": {
     "unused:assets": "scan-unused-assets"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dracarys55/scan-unused-assets.git"
+  },
   "keywords": [
     "unused",
     "assets",
